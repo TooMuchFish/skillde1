@@ -3,7 +3,7 @@ import org.junit.*;
 public class skillde1Tester {
     @Test
     public void divisible(){
-        assertEquals(true, skillde1.divisible(1, 2);
+        assertEquals(true, skillde1.divisible(2, 2));
         // leave errors to fix later
     }
 }
